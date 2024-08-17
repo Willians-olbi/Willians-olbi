@@ -1,7 +1,7 @@
 <h1 align="center">Olá 👋, Eu sou Willians Olbi</h1>
 <h3 align="center">Dedicado à Análise de Dados e Inteligência de Negócios</h3>
 
-🌱 Analista de Dados **SQL | Power BI | Python**
+🌱 Analista de Dados **| SQL | Power BI | Python**
 
 - 💬 Me pergunte sobre **SQL, Power BI e Python**
 
